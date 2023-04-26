@@ -1,0 +1,2 @@
+[console_scripts]
+mypackage = mypackage.__main__:main

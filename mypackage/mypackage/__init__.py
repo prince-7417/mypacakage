@@ -1,0 +1,3 @@
+def myfunction():
+    print("Hello, World!")
+# pypi-AgEIcHlwaS5vcmcCJDY5ZGFhMTQyLTEzODYtNDkzYi1hNjUxLTkwYmZjMzE0MzRmYwACKlszLCIzZjgxMWJkZi1kNDFhLTQ1ZTktYTlhZi1iNjRlYWUxNzA5NTciXQAABiCSo5rOcmCZifIvl63ScyAGIookZS7FUtHYA8tqR4rCDQ
